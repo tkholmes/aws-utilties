@@ -1,0 +1,22 @@
+{
+  "name": "aws-utilties",
+  "version": "1.0.0",
+  "description": "AWS utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkholmes/aws-utilties.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkholmes/aws-utilties/issues"
+  },
+  "homepage": "https://github.com/tkholmes/aws-utilties#readme",
+  "dependencies": {
+    "aws-sdk": "^2.187.0"
+  }
+}
